@@ -3,7 +3,7 @@
 ## Hi, I'm Guilherme! <img  src="https://raw.githubusercontent.com/Gui-guimaraes/Gui-guimaraes/main/images/Hi.gif" width="40">
 
 
- ### 👨🏻‍💻  About Me 
+ ### About Me 
 - 🔭 I’m currently learning the stack: JavaScript, NodeJS, React, CSS, HTML, TypeScript, Boostrap, Angular and VueJS, language and structure that I really like and desire for my career! 💻
 - 🎓 Computer Science student, currently in the first semester. I focus on web development
 - 🤔 Exploring new technologies and I'm interested in C# and Flutter
