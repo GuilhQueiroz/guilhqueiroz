@@ -1,4 +1,4 @@
-# Hey there! I'm Guilherme. 
+# Hey there! I'm Guilherme. <img  src="https://raw.githubusercontent.com/Gui-guimaraes/Gui-guimaraes/main/images/Hi.gif" width="40">
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Gui-guimaraes/Gui-guimaraes/main/images/gif1.gif" width="500"/>
 
  ### 👨🏻‍💻  About Me 
