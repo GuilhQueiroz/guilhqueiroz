@@ -1,4 +1,4 @@
-
+<img src="https://raw.githubusercontent.com/Gui-guimaraes/Gui-guimaraes/main/images/gif2.gif" width="100%">
 
 ## Hey there! I'm Guilherme. <img  src="https://raw.githubusercontent.com/Gui-guimaraes/Gui-guimaraes/main/images/Hi.gif" width="40">
 
