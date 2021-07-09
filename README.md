@@ -8,7 +8,7 @@
 - 🎓 Computer Science student, currently in the first semester. I focus on web development
 - 🤔 Exploring new technologies and I'm interested in C# and Flutter
 - 🎮 I play or read books in my spare time
-- 😍 Passionate about science and technology, ambitious for knowledge and the future.
+- 😍 Passionate about games, science and technology, ambitious for knowledge and the future.
 
 
 
