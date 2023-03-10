@@ -4,9 +4,9 @@
 
 
  ### About Me 
-- 🔭 I’m currently learning the stack: JavaScript, NodeJS, React, CSS, HTML, TypeScript, Boostrap, Angular, VueJS and MySQL, language and structure that I really like and desire for my career! 💻
-- 🎓 Computer Science student, currently in the first semester. I focus on web development
-- 🤔 Exploring new technologies and I'm interested in C# and Flutter
+- 🔭 I am currently learning the python language which I am really enjoying and wish for my career to become a software developer or mobile dev! 💻
+- 🎓 information system student
+- 🤔 Exploring new technologies and I'm interested in C#, Flutter and Python
 - 🎮 I play or read books in my spare time
 - 😍 Passionate about games, science and technology, ambitious for knowledge and the future.
 
