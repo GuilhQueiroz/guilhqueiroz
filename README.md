@@ -18,6 +18,6 @@
 <a href="https://steamcommunity.com/id/Forsem/" target="_blank"><img src="https://img.shields.io/badge/-Steam-black?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 <a href="mailto:guiguimaraes.dev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://stackoverflow.com/users/21372308/forsem" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
- <a href="" alt="Discord" target="_blank"><img src="https://img.shields.io/badge/-Discord-5865f2?style=for-the-badge&logo=Discord&logoColor=FFF"/>
+ <a href="https://discord.gg/JxvDbQYU" alt="Discord" target="_blank"><img src="https://img.shields.io/badge/-Discord-5865f2?style=for-the-badge&logo=Discord&logoColor=FFF"/>
   </a>
 </p>
