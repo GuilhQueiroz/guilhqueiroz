@@ -4,7 +4,7 @@
 
 
  ### About Me 
-- 🔭 I am currently learning the c# language which I am really enjoying and wish for my career to become a software developer or mobile dev! 💻
+- 🔭 I am currently learning the C# language which I am really enjoying and wish for my career to become a software developer or mobile dev! 💻
 - 🎓 information system student
 - 🤔 Exploring new technologies and I'm interested in C# and Flutter 
 - 🎮 I play or read books in my spare time
