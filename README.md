@@ -17,6 +17,13 @@
 </p>
 <br/>
 
+
+<div align="center">
+ 
+  [![GitHub followers](https://img.shields.io/github/followers/guilhqueiroz?logo=GitHub&style=for-the-badge)](https://github.com/guilhQueiroz) [![GitHub Stars](https://img.shields.io/github/stars/guilhqueiroz?logo=github&style=for-the-badge)](https://github.com/guilhQueiroz)
+
+</div>
+
 ## 📊 My Github Stats
 
 <br/>
@@ -50,5 +57,8 @@
 <img src="https://img.shields.io/badge/github-12100E.svg?&style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge">
 </div>
+
+
+
 
 <!-- ## 💻 ***Workspace Spec*** -->
