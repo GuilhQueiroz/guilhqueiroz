@@ -35,7 +35,7 @@
 <br/>
 <br/>
 
-### 🤝🏻 Connect with Me
+## 🤝🏻 Connect with Me
 <p align="center">
 <a href=" " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <!-- <a href=" " target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" target="_blank"></a> -->
