@@ -1,6 +1,6 @@
 <!-- <img src="https://raw.githubusercontent.com/Gui-guimaraes/Gui-guimaraes/main/images/gif2.gif" width="100%"> -->
 
-## Hi, I'm Guilherme! <img  src="https://raw.githubusercontent.com/Gui-guimaraes/Gui-guimaraes/main/images/Hi.gif" width="40">
+<h1 align="center">Hi, I'm Guilherme! <img  src="https://raw.githubusercontent.com/Gui-guimaraes/Gui-guimaraes/main/images/Hi.gif" width="40"> </h1>
 
 
  ### About Me 
@@ -11,6 +11,22 @@
 - 😍 Passionate about games, science and technology, ambitious for knowledge and the future.
 
 
+<br/>
+<p align="center">
+ <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tauz streak" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhqueiroz&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+</p>
+<br/>
+
+## 📊 My Github Stats
+
+<br/>
+<a href="https://github.com/guilhqueiroz"><img alt="guilh Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhqueiroz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
+<a href="https://github.com/guilhqueiroz"><img alt="guilh Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhqueiroz&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=javascript"/></a>
+<br/>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+ 
+<br/>
+<br/>
 
 ### 🤝🏻 Connect with Me
 <p align="center">
