@@ -20,7 +20,7 @@
 
 <div align="center">
  
-  [![GitHub followers](https://img.shields.io/github/followers/guilhqueiroz?logo=GitHub&style=for-the-badge)](https://github.com/guilhQueiroz?tab=followers) [![GitHub Stars](https://img.shields.io/github/stars/guilhqueiroz?logo=github&style=for-the-badge)](https://github.com/guilhQueiroz)
+  [![GitHub followers](https://img.shields.io/github/followers/Guilhqueiroz?logo=GitHub&style=for-the-badge)](https://github.com/GuilhQueiroz?tab=followers) [![GitHub Stars](https://img.shields.io/github/stars/Guilhqueiroz?logo=github&style=for-the-badge)](https://github.com/GuilhQueiroz)
 
 </div>
 
