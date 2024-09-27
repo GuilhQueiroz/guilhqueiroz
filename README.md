@@ -10,7 +10,6 @@
 - 🎮 I play or read books in my spare time
 - 😍 Passionate about games, science and technology, ambitious for knowledge and the future.
 
-
 <br/>
 <p align="center">
  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tauz streak" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhqueiroz&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
@@ -23,15 +22,15 @@
   [![GitHub followers](https://img.shields.io/github/followers/Guilhqueiroz?logo=GitHub&style=for-the-badge)](https://github.com/GuilhQueiroz?tab=followers) [![GitHub Stars](https://img.shields.io/github/stars/Guilhqueiroz?logo=github&style=for-the-badge)](https://github.com/GuilhQueiroz)
 
 </div>
-
+<!--
 ## 📊 My Github Stats
-
+<!--
 <br/>
 <a href="https://github.com/guilhqueiroz"><img alt="guilh Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhqueiroz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
 <a href="https://github.com/guilhqueiroz"><img alt="guilh Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhqueiroz&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=javascript"/></a>
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
- 
+-->
 <br/>
 <br/>
 
@@ -45,7 +44,7 @@
 <a href="https://stackoverflow.com/users/21372308/forsem" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 </p>
 
-## 🏆 ***Minhas Competências***
+## 🏆 ***My Stacks***
 <div align="center">
  
  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
