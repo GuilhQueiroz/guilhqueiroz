@@ -11,11 +11,6 @@
 - 😍 Passionate about games, science and technology, ambitious for knowledge and the future.
 
 <br/>
-<p align="center">
- <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tauz streak" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhqueiroz&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-</p>
-<br/>
-
 
 <div align="center">
  
@@ -52,6 +47,8 @@
  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
  <img src="https://img.shields.io/badge/GIT-b54e00?style=for-the-badge&logo=git&logoColor=white">
  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge"> 
+ <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"> 
+ <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"> 
 </div>
 
 
