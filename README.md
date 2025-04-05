@@ -42,7 +42,6 @@
 ## 🏆 ***My Stacks***
 <div align="center">
  
- <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> 
  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
  <img src="https://img.shields.io/badge/GIT-b54e00?style=for-the-badge&logo=git&logoColor=white">
