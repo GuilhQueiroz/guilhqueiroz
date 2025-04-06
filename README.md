@@ -4,9 +4,9 @@
 
 
  ### About Me 
-- 🔭 I am currently learning the C/C++ language which I am really enjoying and wish for my career to become a software developer or mobile dev! 💻
+- 🔭 I am currently learning the Rust language which I am really enjoying and wish for my career to become a software developer 💻
 - 🎓 Information system student
-- 🤔 Exploring new technologies and I'm interested in C# and C/C++
+- 🤔 Exploring new technologies and I'm interested in Rust and C/C++
 - 🎮 I play or read books in my spare time
 - 😍 Passionate about games, science and technology, ambitious for knowledge and the future.
 
