@@ -1,57 +1,63 @@
-<!-- <img src="https://raw.githubusercontent.com/Gui-guimaraes/Gui-guimaraes/main/images/gif2.gif" width="100%"> -->
+# Hi, I'm Guilherme
 
-<h1 align="center">Hi, I'm Guilherme <img  src="https://raw.githubusercontent.com/Gui-guimaraes/Gui-guimaraes/main/images/Hi.gif" width="40"> </h1>
+👋 **Welcome to my GitHub repository!**  
+Feel free to explore my projects, contributions, and experiments. I'm currently working with Rust, learning new tech every day, and always up for a challenge!
 
+---
 
- ### About Me 
-- 🔭 I am currently learning the Rust language which I am really enjoying and wish for my career to become a software developer 💻
-- 🎓 Information system student
+ ### 👨‍💻 About Me 
+- 🎓 University: Currently an information system student at Unifacisa
 - 🤔 Exploring new technologies and I'm interested in Rust and C/C++
-- 🎮 I play or read books in my spare time
-- 😍 Passionate about games, science and technology, ambitious for knowledge and the future.
+- 🎮 Gamer and book lover in my free time.
+- 🚀 Always exploring new technologies and improving my skills.
+---
 
-<br/>
+## 📚 Currently Learning
+- 🦀 Rust
+- 🧱 Data Structures & Algorithms
+- 🖥️ Operating Systems
+---
 
-<div align="center">
- 
-  [![GitHub followers](https://img.shields.io/github/followers/Guilhqueiroz?logo=GitHub&style=for-the-badge)](https://github.com/GuilhQueiroz?tab=followers) [![GitHub Stars](https://img.shields.io/github/stars/Guilhqueiroz?logo=github&style=for-the-badge)](https://github.com/GuilhQueiroz)
+## 🚀 Stacks
 
-</div>
-<!--
-## 📊 My Github Stats
-<!--
-<br/>
-<a href="https://github.com/guilhqueiroz"><img alt="guilh Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhqueiroz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
-<a href="https://github.com/guilhqueiroz"><img alt="guilh Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhqueiroz&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=javascript"/></a>
-<br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
--->
-<br/>
-<br/>
+### 💻 **Programming Languages**
 
-## 🤝🏻 Connect with Me
-<p align="center">
- <a href="https://www.linkedin.com/in/guilhqueiroz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<!-- <a href=" " target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" target="_blank"></a> -->
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+### 🖼️ **Markup Languages**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🗄️ **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🔧 **Tools**
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+---
+## 📊 GitHub Stats
+“Even small steps, accumulated over time, lead to great distances.”
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Guilhqueiroz&theme=dark&exclude_days=Sun,Sat)](https://git.io/streak-stats)
+
+---
+
+## 🌐 Social Media
+Feel free to connect with me on any of the following platforms! I'm always open to discussing new ideas, projects, or just connecting with like-minded individuals.
+
+<a href="https://www.linkedin.com/in/guilhqueiroz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/guilh.guimaraes/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" target="_blank"></a>
 <a href="https://steamcommunity.com/id/Forsem/" target="_blank"><img src="https://img.shields.io/badge/-Steam-black?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
-<a href="mailto:guiguimaraes.dev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://stackoverflow.com/users/21372308/forsem" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-</p>
+<!-- <a href="https://stackoverflow.com/users/21372308/forsem" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a> -->
+<!-- <a href=" " target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" target="_blank"></a> -->
 
-## 🏆 ***My Stacks***
-<div align="center">
+ ---
  
- <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> 
- <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
- <img src="https://img.shields.io/badge/GIT-b54e00?style=for-the-badge&logo=git&logoColor=white">
- <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge"> 
- <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"> 
- <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> 
- <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"> 
-</div>
+## 📬 Contact Me
+Let's get in touch! Whether you have a question, need help with something, or just want to chat, feel free to reach out through any of the following methods:
 
+<a href="mailto:guiguimaraes.dev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
+---
 
-
-<!-- ## 💻 ***Workspace Spec*** -->
+Thanks for visiting! 🚀
