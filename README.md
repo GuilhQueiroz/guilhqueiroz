@@ -22,13 +22,14 @@ I am an information system student at Unifacisa and tech enthusiast. I love prog
 ### 📅 This Week I Spent My Time On: 
 
 ```txt
-No activity tracked
+📚 Currently Learning
+- 🖥️ Exploring OS concepts
 ```
 <!--
  📚 Currently Learning
-- 🦀 Learning **Rust**
-- 🧱 Practicing **Data Structures & Algorithms**
-- 🖥️ Exploring **OS concepts**
+- 🦀 Learning Rust
+- 🧱 Practicing Data Structures & Algorithms
+- 🖥️ Exploring OS concepts
 
 📂 **Portfolio Projects:** 
 - [Repo Name](link):  
