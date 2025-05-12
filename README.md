@@ -5,7 +5,7 @@
 <a href="https://steamcommunity.com/id/Forsem/" target="_blank"><img src="https://img.shields.io/badge/-Steam-black?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 <!-- <a href="mailto:guiguimaraes.dev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> -->
 
-## Glad to see you here! 
+## Glad to see you here!  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=GuilhQueiroz.guilhqueiroz)
 
 I am an information system student at Unifacisa and tech enthusiast. I love programming, learning new technologies, gaming, reading, watching movies, series and anime.
 
