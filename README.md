@@ -48,7 +48,7 @@ I am an information system student at Unifacisa and tech enthusiast. I love prog
       <img src="https://streak-stats.demolab.com?user=Guilhqueiroz&theme=dark&hide_border=true" alt="GitHub Streak" />
     </td>
    <td>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhqueiroz&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Guilhqueiroz&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
    </td>
   </tr>
 </table>
