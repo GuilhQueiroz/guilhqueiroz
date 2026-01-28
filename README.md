@@ -16,7 +16,7 @@ I am an information system student at Unifacisa and tech enthusiast. I love prog
 - 🦀 I'm currently learning Rust, Data Structures and Algorithms, Operating Systems;
 - 💬 Ask me about anything, I am happy to help;
 - 🎮 Gamer and lover of books, movies, series and anime in my free time;
-- 📫 How to reach me: guiguimaraes.dev@gmail.com;
+- 📫 How to reach me: guiguimaraes.dev@proton.me;
 <!-- - 📄 [Resume].() -->
 
 ### 📅 This Week I Spent My Time On: 
